@@ -12,3 +12,6 @@ About the Software:
 For the programming of our application, Python has been used. Using Python, socket programming is implemented in our project. Sockets allow us to communicate between a client and server by specifying the port numbers and respective IP addresses. The Graphical User Interface has also been coded using Python and the various libraries in it.
 For the purpose of image processing and video transmission, a library in Python called OpenCV is used. OpenCV (Open source computer vision) is a library of programming functions mainly aimed at real-time computer vision. Being a BSD-licensed product, OpenCV makes it easy for applications to utilize and modify the code.
 Wireshark is an open source tool for packet analysis.We have used Wireshark to capture the data packet transfer and analyze the communication protocol being used in our application i.e. TCP.
+
+
+NOTE: The paths to the image and file resources have been hardcoded. Please change the paths to your respective code file location.
